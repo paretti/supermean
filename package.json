@@ -1,0 +1,17 @@
+{
+  "name": "supermean",
+  "version": "0.0.2",
+  "description": "testing app dev duh",
+  "dependencies" : {
+  	"express" : "latest",
+  	"morgan" : "~1.3.0",
+  	"compression" : "~1.0.11",
+  	"body-parser" : "~1.8.0",
+  	"method-override" : "~2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chrisp",
+  "license": "ISC"
+}
